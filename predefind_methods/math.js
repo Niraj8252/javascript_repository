@@ -1,0 +1,14 @@
+console.log(Math.abs(5.4789));
+console.log(Math.abs(7.699));
+console.log(Math.round(9.456));
+console.log(Math.round(111.975));
+console.log(Math.min(100.1,200.2,300,400));
+console.log(Math.max(20.5,30,40,50.5));
+console.log(Math.floor(55.678));
+console.log(Math.floor(21.2121));
+console.log(Math.fround(5.45));
+console.log(Math.fround(5.9));
+console.log(Math.random()*1000);
+console.log(Math.random()*100);
+console.log(Math.ceil(4.343));
+console.log(Math.ceil(9.878));
