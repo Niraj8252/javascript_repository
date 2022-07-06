@@ -6,7 +6,7 @@
 // }
 
 // function sample() {
-//     console.log("sample function is exesuted");
+//     console.log("sample function is executed");
 // }
 // add(5,8,sample)
 

@@ -1,5 +1,5 @@
 
-var arr = [3,6,8,4,60,36,56]
+var arr = [3,,,6,8,4,60,36,56]
 
 //========================== for of loop
 arr.forEach((element,index,array) => {
@@ -7,7 +7,7 @@ arr.forEach((element,index,array) => {
     console.log(index);
 });
 
-for (var index of array) {
+for (var index of arr) {
     console.log(index);
 }
 

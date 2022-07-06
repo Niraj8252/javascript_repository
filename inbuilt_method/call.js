@@ -23,6 +23,6 @@ function greeting(greet1,greet2) {
 // person.introduction()
 // person2.detail()
 
-person.introduction.call(person2)
-// greeting.call(person, "hi" ,"welcome")
+// person.introduction.call(person2)
+greeting.call(person, "hi" ,"welcome")
 // greeting.call(person2, "bengalore","btm")
